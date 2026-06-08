@@ -1,0 +1,58 @@
+/* メモリーのcss */
+body {
+    /* 背景色 */
+    background-color: burlywood;
+}
+
+h1 {
+    /* 中央に配置 */
+    text-align: center;
+    /* フォントサイズ */
+    font-size: 50px;
+}
+
+h2 {
+    /* 中央に配置 */
+    text-align: right;
+}
+
+h3 {
+    /* 中央に配置 */
+    text-align: center;
+    /* フォントサイズ */
+    font-size: 20px;
+}
+
+/* 検索値のcss */
+.search {
+    /* 中央に配置 */
+    text-align: center;
+}
+
+/* inputのtext1のCSS */
+.text1 {
+    /* フォントサイズ */
+    font-size: 25px;
+}
+
+/* inputのtext2のCSS */
+.text2 {
+    /* フォントサイズ */
+    font-size: 20px;
+}
+
+/* inputのsubmit1のCSS */
+.submit1 {
+    /* フォントサイズ */
+    font-size: 17px;
+    /* 背景色 */
+    background-color:#33CCFF;
+}
+
+/* inputのsubmit2のCSS */
+.submit2 {
+    /* フォントサイズ */
+    font-size: 30px;
+    /* 背景色 */
+    background-color:#33CCFF;
+}
